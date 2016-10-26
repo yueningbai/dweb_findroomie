@@ -12,11 +12,12 @@ schema:
  rates
  
 routes:
- /userinfo--post--UserSchema--register: personal info (add cookie)v (tags)v option(v)
- /rate--get---rateone: get info from database and display (random)v 
- /score--post--RateSchema: save age& score 
- /liked--get--likeones: find the people the user rated (range)v
- /whoami--get--myaccount: display my info
+ 
+/userinfo--post--UserSchema--register: personal info (add cookie)v (tags)v option(v)
+/rate--get---rateone: get info from database and display (random)v 
+/score--post--RateSchema: save age& score 
+/liked--get--likeones: find the people the user rated (range)v
+/whoami--get--myaccount: display my info
 
 
 
