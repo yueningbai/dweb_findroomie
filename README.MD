@@ -1,3 +1,22 @@
+
+//update:
+
+
+10.26 add range by age/score: add in schema/ save to database
+
+10.24 use cookie to save the user, connect with target
+
+
+
+
+
+
+
+
+
+
+
+
 # NEED
 
 node.js: v6.9.1<br>
