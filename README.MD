@@ -6,7 +6,7 @@ next step: error page
 
 10.26 add range by age/score: add in schema/ save to database
 
-10.24 use cookie to save the user, connect with target
+10.23 use cookie to save the user, connect with target
 
 10.23 add tags, save as number, array
 
