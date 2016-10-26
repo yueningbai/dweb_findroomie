@@ -6,6 +6,7 @@
 
 10.24 use cookie to save the user, connect with target
 
+10.23 add tags, save as number, array
 
 
 
