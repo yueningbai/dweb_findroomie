@@ -4,8 +4,6 @@
 next step: error page, algorithm
 
 
-10.26 add range by age/score, add myaccount page
-
 
 schema:<br>
  users<br>
