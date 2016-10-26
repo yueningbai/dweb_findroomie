@@ -1,7 +1,7 @@
 
 //update:
 
-next step: error page, algorithm
+next step: error page, change rating, delete account, algorithm
 
 
 
