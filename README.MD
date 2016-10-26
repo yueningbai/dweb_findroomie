@@ -1,20 +1,22 @@
 
 //update:
 
-next step: error page
+next step: error page, algorithm
 
 
-10.26 add range by age/score: add in schema/ save to database
+10.26 add range by age/score, add myaccount page
 
-10.23 use cookie to save the user, connect with target
 
-10.23 add tags, save as number, array
-
-basic: 
- two schema, tid to connect
- router:
-  resgister: get userinfo
-  
+schema:
+ users
+ rates
+ 
+routes:
+ /userinfo--post--UserSchema--register: personal info (add cookie)v (tags)v option(v)
+ /rate--get---rateone: get info from database and display (random)v 
+ /score--post--RateSchema: save age& score 
+ /liked--get--likeones: find the people the user rated (range)v
+ /whoami--get--myaccount: display my info
 
 
 
